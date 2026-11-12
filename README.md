@@ -1,8 +1,6 @@
-# Grip & Flip
+<img src="https://raw.githubusercontent.com/IsaiahAnson/grip-and-flip/main/assets/banner.svg" width="100%" alt="Grip &amp; Flip, a Grain Rot mod by Mentalize. Rotate held objects on all three axes. Hold Alt + mouse, Host or singleplayer, UE4SS.">
 
-[**Get it on Thunderstore**](https://thunderstore.io/c/grain-rot/p/Mentalize/GripAndFlip/)
-
-<img src="icon.png" width="120" align="right" alt="GripAndFlip icon">
+<a href="https://thunderstore.io/c/grain-rot/p/Mentalize/GripAndFlip/"><img src="https://raw.githubusercontent.com/IsaiahAnson/grip-and-flip/stats/downloads.svg" width="100%" alt="Download count and latest version on Thunderstore. Get it on Thunderstore."></a>
 
 **3-axis rotation for held objects in Grain Rot.**
 
